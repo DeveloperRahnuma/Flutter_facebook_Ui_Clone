@@ -1,5 +1,9 @@
 # Flutter Facebook Responsive UI Tutorial
 
-![Mobile Screenshot](screenshots/facebook-mobile.png)
+![Mobile Screenshot]()
 
-![Web Screenshot](screenshots/facebook-web.png)
+![Web Screenshot]()
+
+Web App Screenshot      |  Mobile App Screenshot  |
+:-------------------------:|:-------------------------: |
+![](screenshots/facebook-web.png)  |  ![](screenshots/facebook-mobile.png)
